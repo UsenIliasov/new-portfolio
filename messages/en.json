@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "roles": ["Project Manager", "Frontend Developer", "SEO Specialist"],
+    "description": "Crafting digital experiences through code and project management. With 2+ years in full-stack development and international project coordination, I transform ideas into seamless web applications.",
+    "cta_contact": "Get In Touch",
+    "cta_projects": "View Projects"
+  },
+  "about": {
+    "title": "About",
+    "title_highlight": "Me",
+    "whoami_title": "Who am I?",
+    "whoami_p1": "I am a passionate software developer and project manager with expertise in frontend technologies, SEO optimization, and international project coordination. My journey in tech started with curiosity for how things work, evolving into a career where I solve real-world problems through code and effective project management.",
+    "whoami_p2": "I have extensive experience working on EU-funded Erasmus+ projects across Central Asia and Europe, combining technical skills with cross-cultural communication and project leadership.",
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "exp_label": "Experience",
+    "stat_years": "Years Experience",
+    "stat_projects": "Projects Completed",
+    "stat_countries": "Countries Studied",
+    "stat_languages": "Languages"
+  },
+  "education": {
+    "title": "My",
+    "title_highlight": "Education",
+    "items": [
+      {
+        "degree": "Master's in Computer Science",
+        "school": "Eotvos Lorand University",
+        "location": "Hungary",
+        "period": "2023 – 2025",
+        "description": "Advanced studies in computer science with focus on software engineering and international project management."
+      },
+      {
+        "degree": "Bachelor's in Computer Science",
+        "school": "International University of Kyrgyzstan",
+        "location": "Kyrgyzstan",
+        "period": "2022 – 2023",
+        "description": "Foundation in computer science principles, algorithms, and web development technologies."
+      },
+      {
+        "degree": "Bachelor's in Computer Science",
+        "school": "University of Shanghai for Science and Technology",
+        "location": "China",
+        "period": "2019 – 2022",
+        "description": "International education experience in China with focus on software development and cross-cultural collaboration."
+      }
+    ]
+  },
+  "experience": {
+    "title": "Work",
+    "title_highlight": "Experience",
+    "visit_website": "Visit Website",
+    "items": [
+      {
+        "title": "Employee",
+        "subtitle": "European Documentation Centre (EDC)",
+        "period": "2023 – Present",
+        "description": [
+          "Regional international network in Central Asia for research and documentation",
+          "Facilitating cooperation between Central Asian universities and the European Union",
+          "Supporting international academic projects and Erasmus+ programs",
+          "Expert consultations on quality assurance and curriculum development"
+        ],
+        "link": "https://edckg.com/language/en/ma/"
+      },
+      {
+        "title": "Project Manager, Frontend Developer, SEO Specialist",
+        "subtitle": "ESG-CA Erasmus Project",
+        "period": "2023 – Present",
+        "description": [
+          "Developed responsive website with Next.js and Golang",
+          "Implemented SEO optimization strategies and performance tuning",
+          "Managed international collaboration features",
+          "Project covering 10 universities across Central Asia"
+        ],
+        "link": "https://esgca-erasmus.com/en"
+      },
+      {
+        "title": "Project Manager & Lead Developer",
+        "subtitle": "D-TIDE-KG Erasmus+ Project",
+        "period": "2023 – Present",
+        "description": [
+          "Designed and developed the entire website from scratch",
+          "Led digital transformation of PhD education in Kyrgyzstan",
+          "Co-funded by the European Union Erasmus+ program",
+          "Consortium with Kyrgyz National University, Vilnius University and others"
+        ],
+        "link": "https://d-tide-erasmus.com/"
+      },
+      {
+        "title": "Frontend Developer",
+        "subtitle": "PM ORDO",
+        "period": "09/2023 – 05/2024",
+        "description": [
+          "Built responsive websites and web applications from scratch",
+          "Implemented UI/UX designs with pixel-perfect precision",
+          "Converted legacy applications to modern JavaScript frameworks"
+        ],
+        "link": null
+      },
+      {
+        "title": "Frontend Developer",
+        "subtitle": "Codify Lab",
+        "period": "02/2023 – 09/2023",
+        "description": [
+          "Developed responsive web applications using React.js and Next.js",
+          "Collaborated with cross-functional teams",
+          "Optimized application performance and UX metrics",
+          "Mentored junior developers and conducted code reviews"
+        ],
+        "link": null
+      },
+      {
+        "title": "Frontend Development Mentor",
+        "subtitle": "Crossroads For Kids",
+        "period": "06/2024 – 08/2024",
+        "description": [
+          "Taught HTML, CSS, and JavaScript fundamentals",
+          "Created interactive coding lessons and projects",
+          "Guided students in building their first web applications"
+        ],
+        "link": null
+      }
+    ]
+  },
+  "skills": {
+    "title": "My",
+    "title_highlight": "Skills",
+    "list": [
+      { "name": "JavaScript / TypeScript", "level": 90 },
+      { "name": "React.js / Next.js", "level": 85 },
+      { "name": "Python / Java", "level": 70 },
+      { "name": "SEO Optimization", "level": 80 },
+      { "name": "Project Management", "level": 85 },
+      { "name": "UI/UX Design", "level": 75 },
+      { "name": "Responsive Web Design", "level": 90 },
+      { "name": "Git / GitHub", "level": 85 }
+    ],
+    "tags": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Node.js", "REST APIs", "CMS Integration", "Agile", "Scrum", "Jira"]
+  },
+  "projects": {
+    "title": "Featured",
+    "title_highlight": "Projects",
+    "role_label": "Role",
+    "items": [
+      {
+        "title": "ESG-CA Erasmus Project",
+        "description": "A responsive website for the ESG-CA Erasmus project focused on environmental education modernization in Central Asia. Features international collaboration tools and multilingual support across 10 universities.",
+        "role": "Project Manager, Frontend Developer, SEO Specialist",
+        "tech": ["Next.js", "Golang", "SEO"],
+        "link": "https://esgca-erasmus.com/en"
+      },
+      {
+        "title": "D-TIDE-KG Erasmus+ Project",
+        "description": "Full website design and development for the D-TIDE-KG project — Digital Transformation for Inclusive Doctoral Education in Kyrgyzstan. Co-funded by the EU Erasmus+ program with international consortium.",
+        "role": "Project Manager & Lead Developer",
+        "tech": ["Next.js", "React", "TypeScript"],
+        "link": "https://d-tide-erasmus.com/"
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "items": [
+      { "name": "English", "level": "Fluent", "percent": 90, "flag": "🇬🇧" },
+      { "name": "Russian", "level": "Native", "percent": 100, "flag": "🇷🇺" },
+      { "name": "Kyrgyz", "level": "Native", "percent": 100, "flag": "🇰🇬" },
+      { "name": "Chinese", "level": "Conversational", "percent": 60, "flag": "🇨🇳" },
+      { "name": "Turkish", "level": "Conversational", "percent": 55, "flag": "🇹🇷" }
+    ]
+  },
+  "contact": {
+    "title": "Get In",
+    "title_highlight": "Touch",
+    "lets_talk": "Let's Talk",
+    "description": "I'm open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the channels below.",
+    "whatsapp_cta": "Chat on WhatsApp",
+    "whatsapp_sub": "Pre-filled message ready to send",
+    "form": {
+      "name": "Name",
+      "name_placeholder": "Your name",
+      "email": "Email",
+      "email_placeholder": "your@email.com",
+      "message": "Message",
+      "message_placeholder": "Tell me about your project...",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Iliasov Usonbek. All rights reserved.",
+    "crafted": "Crafted with",
+    "using": "using Next.js & Tailwind"
+  },
+  "whatsapp": {
+    "message": "Hello! I'm glad to connect with you. I will get back to you shortly. — Usonbek"
+  }
+}
