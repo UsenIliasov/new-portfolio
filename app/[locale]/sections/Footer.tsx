@@ -25,7 +25,7 @@ export default function Footer() {
           viewport={{ once: true }}
           className="text-gray-500 text-sm flex items-center gap-1"
         >
-          {t("crafted")} <Heart size={14} className="text-red-500 fill-red-500" /> {t("using")}
+          {/* {t("crafted")} <Heart size={14} className="text-red-500 fill-red-500" /> {t("using")} */}
         </motion.p>
 
         <motion.div

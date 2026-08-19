@@ -120,9 +120,9 @@ export default function Hero() {
         >
           {[
             { icon: Github, href: "https://github.com/UsenIliasov" },
-            { icon: Linkedin, href: "https://linkedin.com/in/usonbek-iliasov" },
-            { icon: Instagram, href: "https://instagram.com/usonbek" },
-            { icon: Send, href: "https://t.me/usonbek" },
+            { icon: Linkedin, href: "https://linkedin.com/in/usonbek-iliasov-44743b285/?isSelfProfile=false" },
+            { icon: Instagram, href: "https://instagram.com/iliasov_u?igsh=cDN6ZW13Nmxhc2t1" },
+            { icon: Send, href: "https://t.me/iliasov_u" },
           ].map((social, i) => (
             <motion.a
               key={i}
