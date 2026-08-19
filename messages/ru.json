@@ -192,6 +192,7 @@
       "name_placeholder": "Ваше имя",
       "email": "Email",
       "email_placeholder": "your@email.com",
+      "phone": "Телефон",
       "message": "Сообщение",
       "message_placeholder": "Расскажите о вашем проекте...",
       "submit": "Отправить сообщение"

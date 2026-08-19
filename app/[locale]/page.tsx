@@ -1,3 +1,5 @@
+import { setRequestLocale } from "next-intl/server";
+
 import Navbar from "@/components/Navbar";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import Hero from "./sections/Hero";
@@ -10,7 +12,15 @@ import Languages from "./sections/Languages";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
 
-export default function Home() {
+export default async function Home({
+  params
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+
+  setRequestLocale(locale);
+
   return (
     <main className="min-h-screen bg-dark">
       <Navbar />

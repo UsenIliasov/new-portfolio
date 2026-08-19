@@ -192,6 +192,7 @@
       "name_placeholder": "Your name",
       "email": "Email",
       "email_placeholder": "your@email.com",
+      "phone": "phone",
       "message": "Message",
       "message_placeholder": "Tell me about your project...",
       "submit": "Send Message"

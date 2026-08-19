@@ -17,7 +17,7 @@ export default function Contact() {
   const infoItems = [
     { icon: Mail, label: t("form.email"), value: "iliasovusenbek@gmail.com", href: "mailto:iliasovusenbek@gmail.com" },
     { icon: Phone, label: t("form.phone"), value: "+996 550 855 936", href: "tel:+996550855936" },
-    { icon: MapPin, label: t("about.location"), value: "Kyrgyzstan", href: null },
+    // { icon: MapPin, label: t("about.location"), value: "Kyrgyzstan", href: null },
   ];
 
   return (
