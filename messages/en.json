@@ -63,14 +63,14 @@
     "visit_website": "Visit Website",
     "items": [
       {
-        "title": "Employee",
+        "title": "IT specialist",
         "subtitle": "European Documentation Centre (EDC)",
         "period": "2023 – Present",
         "description": [
           "Regional international network in Central Asia for research and documentation",
           "Facilitating cooperation between Central Asian universities and the European Union",
           "Supporting international academic projects and Erasmus+ programs",
-          "Expert consultations on quality assurance and curriculum development"
+          "Expert consultancy on quality assurance and web application development"
         ],
         "link": "https://edckg.com/language/en/ma/"
       },
